@@ -21,7 +21,9 @@ left : 100px <br />
 반응형은 @media 쿼리를 이용해야됨 <br />
 ![image](https://user-images.githubusercontent.com/6093105/230565826-49fc977a-3ea3-490d-ab6a-87560383e6c8.png)
 <br />
-
+- flex-direction: column 으로해주면 pc 화면에 가로로 된 메뉴가 세로로 내려온다.
+<br />
+<br /> 
 
 # 참고사이트
 https://fontawesome.com/ <br />
