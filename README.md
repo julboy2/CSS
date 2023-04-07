@@ -15,8 +15,13 @@ left : 100px <br />
 
 ### display <br />
 - flex 후 flex-wrap: wrap 를 하면 화면을 줄이면 아래로 떨어진다. <br />
-
 <br />
+
+### 반응형 <br />
+반응형은 @media 쿼리를 이용해야됨 <br />
+![image](https://user-images.githubusercontent.com/6093105/230565826-49fc977a-3ea3-490d-ab6a-87560383e6c8.png)
+<br />
+
 
 # 참고사이트
 https://fontawesome.com/ <br />
