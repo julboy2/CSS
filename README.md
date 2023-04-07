@@ -21,7 +21,8 @@ left : 100px <br />
 반응형은 @media 쿼리를 이용해야됨 <br />
 ![image](https://user-images.githubusercontent.com/6093105/230565826-49fc977a-3ea3-490d-ab6a-87560383e6c8.png)
 <br />
-- flex-direction: column 으로해주면 pc 화면에 가로로 된 메뉴가 세로로 내려온다.
+- flex-direction: column 으로해주면 pc 화면에 가로로 된 메뉴가 세로로 내려온다. <br />
+- flex-grow:1 로하면 화면이 작아지면 전체화면으로 확대된다.
 <br />
 <br /> 
 
