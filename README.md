@@ -12,6 +12,10 @@ left : 100px <br />
 - fixed : 부모와 상관없이 top 30 , left 100 으로 이동 <br />
 - sticky : 스크롤을 내릴때 top 30 , left 100 으로 고정되어 있다. <br />
 <br />
+
+### display <br />
+- flex 후 flex-wrap: wrap 를 하면 화면을 줄이면 아래로 떨어진다. <br />
+
 <br />
 
 # 참고사이트
